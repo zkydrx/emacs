@@ -27,3 +27,7 @@
 18. M-v:翻到上一屏幕
 19. M->:翻到缓冲区末尾
 20. M-<:翻到缓冲区头
+21. M-g g n:移动到第n行（goto-line),从文件头开始计数
+22. M-x goto-char n:移动到文件第n个字符，从文件头开始计数
+23. C-M-f/C-M-→:下一个单词(s-expression)
+24. C-M-b/C-m-←:上一个单词(s-expression)
