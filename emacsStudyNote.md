@@ -31,3 +31,8 @@
 22. M-x goto-char n:移动到文件第n个字符，从文件头开始计数
 23. C-M-f/C-M-→:下一个单词(s-expression)
 24. C-M-b/C-m-←:上一个单词(s-expression)
+25. C-M-d/C-M-↓:进入一个单词(s-expression)--待定，因为我在任何平台的emacs中都没有实现该功能
+26. C-M-u/C-M-↑:跳出一个单词(s-expression)--待定，因为我在任何平台的emacs中都没有实现该功能
+
+## 编辑
+### 一般命令编辑
